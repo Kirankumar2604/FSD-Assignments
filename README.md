@@ -5,10 +5,14 @@ Tourist helper website built with Bootstrap (static prototype) and Node.js backe
 1. Open `client/public/static-prototype/home.html` in your browser.
 
 ## Run Backend
+Terminal-1
 ```bash
-cd server
+cd client
 npm install
 npm run dev
+```
+Terminal-2
+```bash
 cd server
 npm install
 npm run dev
