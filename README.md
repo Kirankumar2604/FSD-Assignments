@@ -7,6 +7,9 @@ Tourist helper website built with Bootstrap (static prototype) and Node.js backe
 ## Run Backend
 ```bash
 cd server
-npm install express cors
-node server.js
+npm install
+npm run dev
+cd server
+npm install
+npm run dev
 ```
